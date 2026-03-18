@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pwdlib
+python-jose[cryptography]
+python-multipart
+openpyxl
+pandas
